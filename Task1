@@ -1,0 +1,7 @@
+m = str ("Hello ")
+n = str ("world!")
+print (m + n) 
+cnt = str(input('Введите название страны, в которой Вы проживаете: '))
+print ("I'm from " + cnt + "!")
+year = str (input("Введите год Вашего рождения: "))
+print ("I was born in " + year + "!")
