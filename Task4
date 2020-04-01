@@ -1,0 +1,6 @@
+n = input("Введите целое положительное число: ")
+m = 0
+for i in n:
+  while int(i) > m:
+    m = int(i)  
+print(m)
