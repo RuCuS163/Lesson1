@@ -1,7 +1,7 @@
 m = str("Hello ")
 n = str("world!")
 print (m + n) 
-cnt = str(input('Введите название страны, в которой Вы проживаете: '))
+cnt = str(input("Введите название страны, в которой Вы проживаете: "))
 print (f"I'm from {cnt}!")
 year = int(input("Введите год Вашего рождения: "))
 print (f"I was born in {year}!")
